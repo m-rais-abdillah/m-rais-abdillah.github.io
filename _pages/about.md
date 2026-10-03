@@ -9,6 +9,33 @@ redirect_from:
 
 Hello! _Selamat datang!_
 
-I am Rais, a researcher and lecturer at the Faculty of Earth Science and Technology, Institut Teknologi Bandung (ITB), Indonesia. I received my PhD from Tohoku University, Japan, where I studied tropical–extratropical interactions associated with the East Asian winter monsoon and the Maritime Continent.
+I am a meteorologist and climate scientist interested in understanding weather and climate processes over the Maritime Continent and their impacts on society and the environment.
 
-My research focuses on tropical weather and climate variability, climate change, air–sea interactions, extreme events, and hydrometeorological hazards, with a particular interest in understanding weather and climate processes over the Maritime Continent. 
+My research focuses on climate variability, tropical meteorology, extreme weather, and climate change, with particular emphasis on the interactions between large-scale climate systems and regional weather over Indonesia and the surrounding Maritime Continent.
+
+Education
+======
+* Ph.D in Geophysics, Tohoku University, 2018
+* M.S. in Geophysics, Tohoku University, 2015
+* B.S. in Meteorology, Bandung Institute of Technology (ITB), 2012
+
+Work experience
+======
+* 2026-08 to present: Associate Professor
+  * Faculty of Earth Sciences and Technology, ITB
+
+* 2020-05 to 2026-07: Assistant Professor
+  * Faculty of Earth Sciences and Technology, ITB
+
+* 2018-10 to 2020-04: Lecturer
+  * Faculty of Earth Sciences and Technology, ITB
+  
+* 2013-01 to 2013-07: Flood Risk Analyst
+  * PT. MAIPARK Reinsurance, Jakarta, Indonesia
+  
+Publications
+======
+
+
+Teaching
+======

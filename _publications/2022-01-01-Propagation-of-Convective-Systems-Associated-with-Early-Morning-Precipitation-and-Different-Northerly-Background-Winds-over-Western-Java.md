@@ -1,6 +1,7 @@
 ---
 title: "Propagation of Convective Systems Associated with Early Morning Precipitation and Different Northerly Background Winds over Western Java"
 collection: publications
+category: journal
 permalink: /publication/2022-01-01-Propagation-of-Convective-Systems-Associated-with-Early-Morning-Precipitation-and-Different-Northerly-Background-Winds-over-Western-Java
 date: 2022-01-01
 venue: 'Journal of the Meteorological Society of Japan. Ser. II'

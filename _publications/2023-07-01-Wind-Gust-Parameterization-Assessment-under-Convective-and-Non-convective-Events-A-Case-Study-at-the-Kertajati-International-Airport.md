@@ -1,6 +1,7 @@
 ---
 title: "Wind Gust Parameterization Assessment under Convective and Non-convective Events: A Case Study at the Kertajati International Airport"
 collection: publications
+category: journal
 permalink: /publication/2023-07-01-Wind-Gust-Parameterization-Assessment-under-Convective-and-Non-convective-Events-A-Case-Study-at-the-Kertajati-International-Airport
 excerpt: 'Number: 2'
 date: 2023-07-01

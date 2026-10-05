@@ -1,6 +1,7 @@
 ---
 title: "The possible contribution of marine heatwaves on the declining healthy coral reef cover in Nusa Dua, Bali"
 collection: publications
+category: journal
 permalink: /publication/2025-11-01-The-possible-contribution-of-marine-heatwaves-on-the-declining-healthy-coral-reef-cover-in-Nusa-Dua-Bali
 excerpt: '\_eprint: https://doi.org/10.1080/01431161.2025.2592906'
 date: 2025-11-01

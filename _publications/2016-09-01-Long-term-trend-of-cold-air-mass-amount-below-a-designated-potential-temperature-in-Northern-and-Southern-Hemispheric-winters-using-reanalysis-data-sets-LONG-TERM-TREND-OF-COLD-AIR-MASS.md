@@ -1,6 +1,7 @@
 ---
 title: "Long-term trend of cold air mass amount below a designated potential temperature in Northern and Southern Hemispheric winters using reanalysis data sets: LONG-TERM TREND OF COLD AIR MASS"
 collection: publications
+category: journal
 permalink: /publication/2016-09-01-Long-term-trend-of-cold-air-mass-amount-below-a-designated-potential-temperature-in-Northern-and-Southern-Hemispheric-winters-using-reanalysis-data-sets-LONG-TERM-TREND-OF-COLD-AIR-MASS
 date: 2016-09-01
 venue: 'Journal of Geophysical Research: Atmospheres'

@@ -1,6 +1,7 @@
 ---
 title: "Simulation of CO2 emission and land subsidence in reclaimed tidal peat swamp in Berbak Delta, Jambi-Indonesia"
 collection: publications
+category: journal
 permalink: /publication/2017-02-01-Simulation-of-CO2-emission-and-land-subsidence-in-reclaimed-tidal-peat-swamp-in-Berbak-Delta-Jambi-Indonesia
 date: 2017-02-01
 venue: 'International Journal of GEOMATE'

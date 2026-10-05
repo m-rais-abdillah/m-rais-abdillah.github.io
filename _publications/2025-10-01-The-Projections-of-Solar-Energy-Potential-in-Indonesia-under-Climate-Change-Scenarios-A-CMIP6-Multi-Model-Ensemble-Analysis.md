@@ -1,6 +1,7 @@
 ---
 title: "The Projections of Solar Energy Potential in Indonesia under Climate Change Scenarios : A CMIP6 Multi-Model Ensemble Analysis"
 collection: publications
+category: proceeding
 permalink: /publication/2025-10-01-The-Projections-of-Solar-Energy-Potential-in-Indonesia-under-Climate-Change-Scenarios-A-CMIP6-Multi-Model-Ensemble-Analysis
 date: 2025-10-01
 venue: 'In the proceedings of ITB Graduate School Conference'

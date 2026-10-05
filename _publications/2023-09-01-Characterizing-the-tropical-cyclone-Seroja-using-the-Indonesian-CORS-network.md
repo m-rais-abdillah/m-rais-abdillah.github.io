@@ -1,6 +1,7 @@
 ---
 title: "Characterizing the tropical cyclone Seroja using the Indonesian CORS network"
 collection: publications
+category: journal
 permalink: /publication/2023-09-01-Characterizing-the-tropical-cyclone-Seroja-using-the-Indonesian-CORS-network
 date: 2023-09-01
 venue: 'Natural Hazards'

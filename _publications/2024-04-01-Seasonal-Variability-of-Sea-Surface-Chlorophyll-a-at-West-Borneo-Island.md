@@ -1,6 +1,7 @@
 ---
 title: "Seasonal Variability of Sea Surface Chlorophyll-a at West Borneo Island"
 collection: publications
+category: journal
 permalink: /publication/2024-04-01-Seasonal-Variability-of-Sea-Surface-Chlorophyll-a-at-West-Borneo-Island
 excerpt: 'Number: 1'
 date: 2024-04-01

@@ -1,6 +1,7 @@
 ---
 title: "Harnessing the Indonesia’s Banda Sea Thermal Resources Through Comprehensive OTEC Potential Study"
 collection: publications
+category: proceeding
 permalink: /publication/2025-10-01-Harnessing-the-Indonesias-Banda-Sea-Thermal-Resources-Through-Comprehensive-OTEC-Potential-Study
 date: 2025-10-01
 venue: 'In the proceedings of ITB Graduate School Conference'

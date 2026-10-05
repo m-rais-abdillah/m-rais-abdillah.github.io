@@ -1,6 +1,7 @@
 ---
 title: "Evaluation of Subseasonal-to-Seasonal (S2S) precipitation forecast performance from NMME-2 over Indonesia"
 collection: publications
+category: proceeding
 permalink: /publication/2024-06-01-Evaluation-of-Subseasonal-to-Seasonal-S2S-precipitation-forecast-performance-from-NMME-2-over-Indonesia
 date: 2024-06-01
 venue: 'In the proceedings of IOP Conference Series: Earth and Environmental Science'

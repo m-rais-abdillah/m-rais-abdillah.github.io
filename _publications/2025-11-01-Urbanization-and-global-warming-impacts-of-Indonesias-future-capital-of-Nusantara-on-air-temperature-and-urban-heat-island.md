@@ -1,6 +1,7 @@
 ---
 title: "Urbanization and global warming impacts of Indonesia’s future capital of Nusantara on air temperature and urban heat island"
 collection: publications
+category: journal
 permalink: /publication/2025-11-01-Urbanization-and-global-warming-impacts-of-Indonesias-future-capital-of-Nusantara-on-air-temperature-and-urban-heat-island
 date: 2025-11-01
 venue: 'Scientific Reports'

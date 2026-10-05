@@ -1,6 +1,7 @@
 ---
 title: "Tropical–Extratropical Interactions Associated with East Asian Cold Air Outbreaks. Part I: Interannual Variability"
 collection: publications
+category: journal
 permalink: /publication/2017-04-01-TropicalExtratropical-Interactions-Associated-with-East-Asian-Cold-Air-Outbreaks-Part-I-Interannual-Variability
 date: 2017-04-01
 venue: 'Journal of Climate'

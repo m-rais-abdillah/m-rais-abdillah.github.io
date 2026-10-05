@@ -1,6 +1,7 @@
 ---
 title: "Modulation of Diurnal Cycle of Rainfall Over the Western Maritime Continent Associated with Cold Surge and the Madden–Julian Oscillation"
 collection: publications
+category: proceeding
 permalink: /publication/2022-01-01-Modulation-of-Diurnal-Cycle-of-Rainfall-Over-the-Western-Maritime-Continent-Associated-with-Cold-Surge-and-the-MaddenJulian-Oscillation
 date: 2022-01-01
 venue: 'In the proceedings of Proceedings of the International Conference on Radioscience, Equatorial Atmospheric Science and Environment and Humanosphere Science, 2021'

@@ -1,6 +1,7 @@
 ---
 title: "Revealing mechanism of phreatic eruptions derived by satellite- and field-based water interactions at Tangkuban Parahu Volcano, West Java, Indonesia"
 collection: publications
+category: journal
 permalink: /publication/2026-03-01-Revealing-mechanism-of-phreatic-eruptions-derived-by-satellite-and-field-based-water-interactions-at-Tangkuban-Parahu-Volcano-West-Java-Indonesia
 date: 2026-03-01
 venue: 'Journal of Volcanology and Geothermal Research'

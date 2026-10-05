@@ -1,6 +1,7 @@
 ---
 title: "School Location Analysis by Integrating the Accessibility, Natural and Biological Hazards to Support Equal Access to Education"
 collection: publications
+category: journal
 permalink: /publication/2022-01-01-School-Location-Analysis-by-Integrating-the-Accessibility-Natural-and-Biological-Hazards-to-Support-Equal-Access-to-Education
 excerpt: 'Number: 1'
 date: 2022-01-01

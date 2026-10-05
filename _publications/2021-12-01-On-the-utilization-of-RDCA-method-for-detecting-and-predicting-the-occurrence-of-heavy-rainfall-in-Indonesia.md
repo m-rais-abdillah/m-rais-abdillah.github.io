@@ -1,6 +1,7 @@
 ---
 title: "On the utilization of RDCA method for detecting and predicting the occurrence of heavy rainfall in Indonesia"
 collection: publications
+category: journal
 permalink: /publication/2021-12-01-On-the-utilization-of-RDCA-method-for-detecting-and-predicting-the-occurrence-of-heavy-rainfall-in-Indonesia
 date: 2021-12-01
 venue: 'Remote Sensing Applications: Society and Environment'

@@ -1,6 +1,7 @@
 ---
 title: "Understanding the Cross-Equatorial Pathway: How Tropical Variability Modulates the Propagation of East Asian Cold Surges into the Southern Hemisphere"
 collection: publications
+category: journal
 permalink: /publication/2026-05-01-Understanding-the-Cross-Equatorial-Pathway-How-Tropical-Variability-Modulates-the-Propagation-of-East-Asian-Cold-Surges-into-the-Southern-Hemisphere
 date: 2026-05-01
 venue: 'Advances in Atmospheric Sciences'

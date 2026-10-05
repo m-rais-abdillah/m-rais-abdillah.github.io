@@ -1,6 +1,7 @@
 ---
 title: "Influences of geomorphological and surface aerodynamic factors on the relationship between maximum and average wind speed in Indonesia"
 collection: publications
+category: proceeding
 permalink: /publication/2025-04-01-Influences-of-geomorphological-and-surface-aerodynamic-factors-on-the-relationship-between-maximum-and-average-wind-speed-in-Indonesia
 date: 2025-04-01
 venue: 'In the proceedings of IOP Conference Series: Earth and Environmental Science'

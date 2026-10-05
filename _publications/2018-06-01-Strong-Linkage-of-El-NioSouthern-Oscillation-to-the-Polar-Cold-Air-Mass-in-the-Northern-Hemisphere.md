@@ -1,6 +1,7 @@
 ---
 title: "Strong Linkage of El Niño–Southern Oscillation to the Polar Cold Air Mass in the Northern Hemisphere"
 collection: publications
+category: journal
 permalink: /publication/2018-06-01-Strong-Linkage-of-El-NioSouthern-Oscillation-to-the-Polar-Cold-Air-Mass-in-the-Northern-Hemisphere
 date: 2018-06-01
 venue: 'Geophysical Research Letters'

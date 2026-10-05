@@ -1,6 +1,7 @@
 ---
 title: "Prediction of extreme rain in Kototabang using Himawari-8 satellite based on differences in cloud brightness temperature"
 collection: publications
+category: journal
 permalink: /publication/2024-01-01-Prediction-of-extreme-rain-in-Kototabang-using-Himawari-8-satellite-based-on-differences-in-cloud-brightness-temperature
 date: 2024-01-01
 venue: 'Remote Sensing Applications: Society and Environment'

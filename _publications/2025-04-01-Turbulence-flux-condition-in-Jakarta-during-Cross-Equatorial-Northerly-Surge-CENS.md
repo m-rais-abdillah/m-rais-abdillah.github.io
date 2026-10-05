@@ -1,6 +1,7 @@
 ---
 title: "Turbulence flux condition in Jakarta during Cross Equatorial Northerly Surge (CENS)"
 collection: publications
+category: proceeding
 permalink: /publication/2025-04-01-Turbulence-flux-condition-in-Jakarta-during-Cross-Equatorial-Northerly-Surge-CENS
 date: 2025-04-01
 venue: 'In the proceedings of IOP Conference Series: Earth and Environmental Science'

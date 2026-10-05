@@ -1,6 +1,7 @@
 ---
 title: "Projected Rainfall Trends and Variability in the Mrica Catchment under the SSP5-8.5 Scenario"
 collection: publications
+category: proceeding
 permalink: /publication/2025-10-01-Projected-Rainfall-Trends-and-Variability-in-the-Mrica-Catchment-under-the-SSP5-85-Scenario
 date: 2025-10-01
 venue: 'In the proceedings of ITB Graduate School Conference'

@@ -1,6 +1,7 @@
 ---
 title: "Indicators and trends of polar cold airmass"
 collection: publications
+category: journal
 permalink: /publication/2019-02-01-Indicators-and-trends-of-polar-cold-airmass
 date: 2019-02-01
 venue: 'Environmental Research Letters'

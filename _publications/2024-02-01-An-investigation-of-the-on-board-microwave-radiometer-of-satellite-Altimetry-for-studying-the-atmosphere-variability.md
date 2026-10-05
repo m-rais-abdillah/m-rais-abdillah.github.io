@@ -1,6 +1,7 @@
 ---
 title: "An investigation of the on-board microwave radiometer of satellite Altimetry for studying the atmosphere variability"
 collection: publications
+category: journal
 permalink: /publication/2024-02-01-An-investigation-of-the-on-board-microwave-radiometer-of-satellite-Altimetry-for-studying-the-atmosphere-variability
 date: 2024-02-01
 venue: 'Earth, Planets and Space'

@@ -1,6 +1,7 @@
 ---
 title: "Regional variation of the influence of cross-equatorial northerly surge towards diurnal cycle of rainfall over Java Island"
 collection: publications
+category: journal
 permalink: /publication/2023-01-01-Regional-variation-of-the-influence-of-cross-equatorial-northerly-surge-towards-diurnal-cycle-of-rainfall-over-Java-Island
 date: 2023-01-01
 venue: 'Geoscience Letters'

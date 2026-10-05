@@ -1,6 +1,7 @@
 ---
 title: "Charge and discharge of polar cold air mass in northern hemispheric winter"
 collection: publications
+category: journal
 permalink: /publication/2015-09-01-Charge-and-discharge-of-polar-cold-air-mass-in-northern-hemispheric-winter
 date: 2015-09-01
 venue: 'Geophysical Research Letters'

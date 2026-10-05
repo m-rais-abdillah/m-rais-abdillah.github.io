@@ -1,6 +1,7 @@
 ---
 title: "Future projections of extreme precipitation over Indonesia&apos;s new capital under climate change scenario using CORDEX-SEA regional climate models"
 collection: publications
+category: journal
 permalink: /publication/2026-01-01-Future-projections-of-extreme-precipitation-over-Indonesias-new-capital-under-climate-change-scenario-using-CORDEX-SEA-regional-climate-models
 date: 2026-01-01
 venue: 'Atmospheric Research'

@@ -1,6 +1,7 @@
 ---
 title: "Increasing marine heatwaves in the Gulf of Thailand after the global warming hiatus"
 collection: publications
+category: journal
 permalink: /publication/2024-06-01-Increasing-marine-heatwaves-in-the-Gulf-of-Thailand-after-the-global-warming-hiatus
 date: 2024-06-01
 venue: 'Marine Environmental Research'

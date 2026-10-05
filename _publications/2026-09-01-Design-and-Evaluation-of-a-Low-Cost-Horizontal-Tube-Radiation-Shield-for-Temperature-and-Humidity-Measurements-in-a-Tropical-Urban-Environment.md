@@ -1,6 +1,7 @@
 ---
 title: "Design and Evaluation of a Low-Cost Horizontal Tube Radiation Shield for Temperature and Humidity Measurements in a Tropical Urban Environment"
 collection: publications
+category: journal
 permalink: /publication/2026-09-01-Design-and-Evaluation-of-a-Low-Cost-Horizontal-Tube-Radiation-Shield-for-Temperature-and-Humidity-Measurements-in-a-Tropical-Urban-Environment
 date: 2026-09-01
 venue: 'EGUsphere'

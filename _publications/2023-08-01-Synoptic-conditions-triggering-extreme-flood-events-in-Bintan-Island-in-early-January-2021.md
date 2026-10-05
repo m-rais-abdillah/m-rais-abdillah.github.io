@@ -1,6 +1,7 @@
 ---
 title: "Synoptic conditions triggering extreme flood events in Bintan Island in early January 2021"
 collection: publications
+category: journal
 permalink: /publication/2023-08-01-Synoptic-conditions-triggering-extreme-flood-events-in-Bintan-Island-in-early-January-2021
 date: 2023-08-01
 venue: 'Meteorology and Atmospheric Physics'

@@ -1,6 +1,7 @@
 ---
 title: "Thermal Discomfort and Its Impact on Urban Residential Electricity Use: A Case Study in Bandung, Indonesia"
 collection: publications
+category: proceeding
 permalink: /publication/2025-10-01-Thermal-Discomfort-and-Its-Impact-on-Urban-Residential-Electricity-Use-A-Case-Study-in-Bandung-Indonesia
 date: 2025-10-01
 venue: 'In the proceedings of ITB Graduate School Conference'

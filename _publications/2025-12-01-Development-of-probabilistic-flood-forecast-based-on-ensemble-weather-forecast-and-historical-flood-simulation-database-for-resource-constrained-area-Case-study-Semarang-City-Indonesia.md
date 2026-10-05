@@ -2,6 +2,7 @@
 title: "Development of probabilistic flood forecast based on ensemble weather forecast and historical flood simulation database for resource-constrained area. Case study: Semarang City, Indonesia"
 collection: publications
 category: journal
+author:  Rusmawan Suwarman,  Mohammad Farid,  <b>Muhammad Abdillah</b>,  Ahmad Wahid,  Tri Hadi,  Edi Riawan,  Faiz Fajary,  Yogi Simanjuntak,  Siti Azizah,  Rinaldi Sirait,  Mohammad Adityawan,  Azman Roesbianto,  Jovian Javas,  Ferrari Pinem, 
 permalink: /publication/2025-12-01-Development-of-probabilistic-flood-forecast-based-on-ensemble-weather-forecast-and-historical-flood-simulation-database-for-resource-constrained-area-Case-study-Semarang-City-Indonesia
 date: 2025-12-01
 venue: 'Environmental Challenges'

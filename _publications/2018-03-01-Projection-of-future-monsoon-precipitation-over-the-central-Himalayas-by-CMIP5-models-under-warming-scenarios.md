@@ -2,6 +2,7 @@
 title: "Projection of future monsoon precipitation over the central Himalayas by CMIP5 models under warming scenarios"
 collection: publications
 category: journal
+author:  I Kadel,  T Yamazaki,  T Iwasaki,  <b>Mr Abdillah</b>, 
 permalink: /publication/2018-03-01-Projection-of-future-monsoon-precipitation-over-the-central-Himalayas-by-CMIP5-models-under-warming-scenarios
 date: 2018-03-01
 venue: 'Climate Research'

@@ -2,6 +2,7 @@
 title: "Increasing marine heatwaves in the Gulf of Thailand after the global warming hiatus"
 collection: publications
 category: journal
+author:  Parichat Wetchayont,  Anindya Wirasatriya,  Tadahiro Hayasaka,  Teruhisa Shimada,  <b>Muhammad Abdillah</b>,  Ardiansyah Puryajati, 
 permalink: /publication/2024-06-01-Increasing-marine-heatwaves-in-the-Gulf-of-Thailand-after-the-global-warming-hiatus
 date: 2024-06-01
 venue: 'Marine Environmental Research'

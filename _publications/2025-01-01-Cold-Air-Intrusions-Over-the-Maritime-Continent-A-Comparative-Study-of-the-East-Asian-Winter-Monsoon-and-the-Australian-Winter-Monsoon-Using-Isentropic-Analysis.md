@@ -2,6 +2,7 @@
 title: "Cold Air Intrusions Over the Maritime Continent: A Comparative Study of the East Asian Winter Monsoon and the Australian Winter Monsoon Using Isentropic Analysis"
 collection: publications
 category: journal
+author:  Aprilia Tita,  Inovasita Alifdini,  Teruhisa Shimada,  <b>Muhammad Abdillah</b>, 
 permalink: /publication/2025-01-01-Cold-Air-Intrusions-Over-the-Maritime-Continent-A-Comparative-Study-of-the-East-Asian-Winter-Monsoon-and-the-Australian-Winter-Monsoon-Using-Isentropic-Analysis
 excerpt: '\_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD045145'
 date: 2025-01-01

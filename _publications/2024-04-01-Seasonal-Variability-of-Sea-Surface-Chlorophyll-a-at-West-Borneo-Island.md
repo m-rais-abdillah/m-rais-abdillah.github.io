@@ -2,6 +2,7 @@
 title: "Seasonal Variability of Sea Surface Chlorophyll-a at West Borneo Island"
 collection: publications
 category: journal
+author:  Ivonne Radjawane,  Ejria Saleh,  Gandhi Napitupulu,  <b>Muhammad Abdillah</b>,  Mohd Hassan, 
 permalink: /publication/2024-04-01-Seasonal-Variability-of-Sea-Surface-Chlorophyll-a-at-West-Borneo-Island
 excerpt: 'Number: 1'
 date: 2024-04-01

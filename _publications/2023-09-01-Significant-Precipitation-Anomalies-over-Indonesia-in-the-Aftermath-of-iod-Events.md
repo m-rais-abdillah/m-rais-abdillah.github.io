@@ -2,6 +2,7 @@
 title: "Significant Precipitation Anomalies over Indonesia in the Aftermath of iod Events"
 collection: publications
 category: proceeding
+author:  Chairul Nasution,  Faiz Fajary,  <b>Muhammad Abdillah</b>,  Aditya Kartadikaria, 
 permalink: /publication/2023-09-01-Significant-Precipitation-Anomalies-over-Indonesia-in-the-Aftermath-of-iod-Events
 date: 2023-09-01
 venue: 'In the proceedings of IOP Conference Series: Earth and Environmental Science'

@@ -2,6 +2,7 @@
 title: "School Location Analysis by Integrating the Accessibility, Natural and Biological Hazards to Support Equal Access to Education"
 collection: publications
 category: journal
+author:  Anjar Sakti,  Muhammad Rahadianto,  Biswajeet Pradhan,  Hubbi Muhammad,  I. Andani,  Prasanti Sarli,  <b>Muhammad Abdillah</b>,  Tania Anggraini,  Andhika Purnomo,  Riki Ridwana,  Fajar Yulianto,  Masita Manessa,  Afina Fauziyyah,  Lissa Yayusman,  Ketut Wikantika, 
 permalink: /publication/2022-01-01-School-Location-Analysis-by-Integrating-the-Accessibility-Natural-and-Biological-Hazards-to-Support-Equal-Access-to-Education
 excerpt: 'Number: 1'
 date: 2022-01-01

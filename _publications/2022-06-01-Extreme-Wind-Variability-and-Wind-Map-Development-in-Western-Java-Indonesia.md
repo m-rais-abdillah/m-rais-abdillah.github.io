@@ -2,6 +2,7 @@
 title: "Extreme Wind Variability and Wind Map Development in Western Java, Indonesia"
 collection: publications
 category: journal
+author:  <b>Muhammad Abdillah</b>,  Prasanti Sarli,  Hafidz Firmansyah,  Anjar Sakti,  Faiz Fajary,  Robi Muharsyah,  Gian Sudarman, 
 permalink: /publication/2022-06-01-Extreme-Wind-Variability-and-Wind-Map-Development-in-Western-Java-Indonesia
 date: 2022-06-01
 venue: 'International Journal of Disaster Risk Science'

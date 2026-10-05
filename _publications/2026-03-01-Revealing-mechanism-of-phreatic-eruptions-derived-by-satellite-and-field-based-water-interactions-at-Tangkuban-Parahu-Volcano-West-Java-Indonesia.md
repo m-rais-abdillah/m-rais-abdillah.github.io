@@ -2,6 +2,7 @@
 title: "Revealing mechanism of phreatic eruptions derived by satellite- and field-based water interactions at Tangkuban Parahu Volcano, West Java, Indonesia"
 collection: publications
 category: journal
+author:  Asep Saepuloh,  Saiyidinal Ramadhan,  Edi Riawan,  <b>Muhammad Abdillah</b>,  Irwan Gumilar,  Agus Ramdhan,  Heruningtyas Purnamasari,  Fattah Ghiffari,  Axel Sibarani,  Ricky Tambunan,  Janice Costa,  Dwina Nugraha,  Ahmad Basuki,  {Kristianto}, 
 permalink: /publication/2026-03-01-Revealing-mechanism-of-phreatic-eruptions-derived-by-satellite-and-field-based-water-interactions-at-Tangkuban-Parahu-Volcano-West-Java-Indonesia
 date: 2026-03-01
 venue: 'Journal of Volcanology and Geothermal Research'

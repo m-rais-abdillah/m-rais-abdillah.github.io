@@ -35,12 +35,12 @@
   border-bottom: 1px solid var(--global-border-color);
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.1em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -258,9 +258,9 @@
 }
 
 .archive__item {
-  margin-bottom: 0.8em;
+  margin-bottom: 0.4em;
 }
 
 .archive__item-teaser {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
 }

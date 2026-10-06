@@ -1,0 +1,12 @@
+---
+title: "Extreme Wind Variability and Wind Map Development in Western Java, Indonesia"
+collection: publications
+category: journal
+author:  <b>Muhammad Abdillah</b>,  Prasanti Sarli,  Hafidz Firmansyah,  Anjar Sakti,  Faiz Fajary,  Robi Muharsyah,  Gian Sudarman, 
+permalink: /publication/2022-06-01-Extreme-Wind-Variability-and-Wind-Map-Development-in-Western-Java-Indonesia
+date: 2022-06-01
+venue: 'International Journal of Disaster Risk Science'
+paperurl: 'https://doi.org/10.1007/s13753-022-00420-7'
+citation: ' Muhammad Abdillah,  Prasanti Sarli,  Hafidz Firmansyah,  Anjar Sakti,  Faiz Fajary,  Robi Muharsyah,  Gian Sudarman, &quot;Extreme Wind Variability and Wind Map Development in Western Java, Indonesia.&quot; International Journal of Disaster Risk Science, 2022.'
+---
+[Access paper here](https://doi.org/10.1007/s13753-022-00420-7){:target="_blank"}

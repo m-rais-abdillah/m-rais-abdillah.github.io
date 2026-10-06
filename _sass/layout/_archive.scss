@@ -264,3 +264,92 @@
 .archive__item-teaser {
   margin-bottom: 0.25em;
 }
+
+/* ********************************************* */
+/* modify 2026-10-05 */
+/* Publication category headings */
+
+.publication-category-title {
+  font-size: 1.25em;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+/* Publications grouped by year */
+
+.publication-year-group {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  column-gap: 30px;
+  margin-bottom: 1.2em;
+}
+
+.publication-year {
+  font-size: 1.05em;
+  font-weight: 600;
+  padding-top: 0.1em;
+}
+
+.publication-year-items {
+  min-width: 0;
+}
+
+.publication-item {
+  margin-bottom: 0.9em;
+}
+
+.publication-title {
+  font-size: 0.95em;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.publication-title a {
+  text-decoration: none;
+}
+
+.publication-authors {
+  font-size: 0.82em;
+  line-height: 1.35;
+  margin-top: 0.15em;
+}
+
+.publication-venue {
+  font-size: 0.82em;
+  line-height: 1.35;
+  margin-top: 0.1em;
+}
+
+/* Publication navigation buttons */
+
+.publication-navigation {
+  display: flex;
+  gap: 10px;
+  margin: 0 0 1.5em 0;
+  flex-wrap: wrap;
+}
+
+.publication-nav-button {
+  display: inline-block;
+  padding: 6px 14px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.85em;
+  line-height: 1.4;
+}
+
+.publication-nav-button:hover {
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+/* Prevent the heading from being hidden behind a sticky header */
+#preprints,
+#journal-articles,
+#books,
+#conference-proceedings {
+  scroll-margin-top: 80px;
+}

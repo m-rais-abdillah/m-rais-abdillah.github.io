@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rais' personal page"
+title                    : "Muhammad Rais Abdillah"
 title_separator          : "-"
 name                     : &name "Muhammad Rais Abdillah"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "kapibara.jpg"
-  name             : "Muhammad Rais Abdillah"
+  name             : "Rais"
   pronouns         : # example: "she/her"  
   bio              : "Weather and climate researcher"
   location         : "Faculty of Earth Sciences and Technology"
@@ -93,6 +93,10 @@ publication_category:
     title: 'Journal Articles'    
   proceeding:
     title: 'Conference Papers'
+  preprint:
+    title: 'Preprints'    
+  book:
+    title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -16,9 +16,283 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
+
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+
+    {% if page.url == "/publications/" %}
+
+      <div class="publication-navigation">
+        <a href="#preprints" class="publication-nav-button">
+          Preprint
+        </a>
+        <a href="#journal-articles" class="publication-nav-button">
+          Journal Article
+        </a>
+        <a href="#conference-proceedings" class="publication-nav-button">
+          Conference Proceeding
+        </a>
+        <a href="#books" class="publication-nav-button">
+          Book
+        </a>
+      </div>
+
+    {% endif %}
+
+    {% if page.url == "/publications/" %}
+
+      <!-- ==================== PREPRINT ==================== -->
+
+      <h2 id="preprints" class="publication-category-title">
+        Preprint/Submitted/Under Review
+      </h2>
+
+      {% assign preprint_pubs = site.publications | where: "category", "preprint" %}
+      {% assign current_year = "" %}
+
+      {% for post in preprint_pubs reversed %}
+
+        {% assign publication_year = post.date | date: "%Y" %}
+
+        {% if publication_year != current_year %}
+
+          {% unless forloop.first %}
+              </div>
+            </div>
+          {% endunless %}
+
+          <div class="publication-year-group">
+
+            <div class="publication-year">
+              {{ publication_year }}
+            </div>
+
+            <div class="publication-year-items">
+
+          {% assign current_year = publication_year %}
+
+        {% endif %}
+
+        <div class="publication-item">
+
+          <div class="publication-title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </div>
+
+          {% if post.author %}
+            <div class="publication-authors">
+              {{ post.author }}
+            </div>
+          {% endif %}
+
+          {% if post.venue %}
+            <div class="publication-venue">
+              <em>{{ post.venue }}</em>
+            </div>
+          {% endif %}
+
+        </div>
+
+      {% endfor %}
+
+      {% if preprint_pubs.size > 0 %}
+          </div>
+        </div>
+      {% endif %}
+
+      <!-- ==================== JOURNAL ARTICLES ==================== -->
+
+      <h2 id="journal-articles" class="publication-category-title">
+        Journal Article
+      </h2>
+
+      {% assign journal_pubs = site.publications | where: "category", "journal" %}
+      {% assign current_year = "" %}
+
+      {% for post in journal_pubs reversed %}
+
+        {% assign publication_year = post.date | date: "%Y" %}
+
+        {% if publication_year != current_year %}
+
+          {% unless forloop.first %}
+              </div>
+            </div>
+          {% endunless %}
+
+          <div class="publication-year-group">
+
+            <div class="publication-year">
+              {{ publication_year }}
+            </div>
+
+            <div class="publication-year-items">
+
+          {% assign current_year = publication_year %}
+
+        {% endif %}
+
+        <div class="publication-item">
+
+          <div class="publication-title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </div>
+
+          {% if post.author %}
+            <div class="publication-authors">
+              {{ post.author }}
+            </div>
+          {% endif %}
+
+          {% if post.venue %}
+            <div class="publication-venue">
+              <em>{{ post.venue }}</em>
+            </div>
+          {% endif %}
+
+        </div>
+
+      {% endfor %}
+
+      {% if journal_pubs.size > 0 %}
+          </div>
+        </div>
+      {% endif %}
+
+
+      <!-- ==================== CONFERENCE PROCEEDINGS ==================== -->
+
+      <h2 id="conference-proceedings" class="publication-category-title">
+        Conference Proceeding
+      </h2>
+
+      {% assign proceeding_pubs = site.publications | where: "category", "proceeding" %}
+      {% assign current_year = "" %}
+
+      {% for post in proceeding_pubs reversed %}
+
+        {% assign publication_year = post.date | date: "%Y" %}
+
+        {% if publication_year != current_year %}
+
+          {% unless forloop.first %}
+              </div>
+            </div>
+          {% endunless %}
+
+          <div class="publication-year-group">
+
+            <div class="publication-year">
+              {{ publication_year }}
+            </div>
+
+            <div class="publication-year-items">
+
+          {% assign current_year = publication_year %}
+
+        {% endif %}
+
+        <div class="publication-item">
+
+          <div class="publication-title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </div>
+
+          {% if post.author %}
+            <div class="publication-authors">
+              {{ post.author }}
+            </div>
+          {% endif %}
+
+          {% if post.venue %}
+            <div class="publication-venue">
+              <em>{{ post.venue }}</em>
+            </div>
+          {% endif %}
+
+        </div>
+
+      {% endfor %}
+
+      {% if proceeding_pubs.size > 0 %}
+          </div>
+        </div>
+      {% endif %}
+
+      <!-- ==================== Book ==================== -->
+
+      <h2 id="books" class="publication-category-title">
+        Book
+      </h2>
+
+      {% assign book_pubs = site.publications | where: "category", "book" %}
+      {% assign current_year = "" %}
+
+      {% for post in book_pubs reversed %}
+
+        {% assign publication_year = post.date | date: "%Y" %}
+
+        {% if publication_year != current_year %}
+
+          {% unless forloop.first %}
+              </div>
+            </div>
+          {% endunless %}
+
+          <div class="publication-year-group">
+
+            <div class="publication-year">
+              {{ publication_year }}
+            </div>
+
+            <div class="publication-year-items">
+
+          {% assign current_year = publication_year %}
+
+        {% endif %}
+
+        <div class="publication-item">
+
+          <div class="publication-title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </div>
+
+          {% if post.author %}
+            <div class="publication-authors">
+              {{ post.author }}
+            </div>
+          {% endif %}
+
+          {% if post.venue %}
+            <div class="publication-venue">
+              <em>{{ post.venue }}</em>
+            </div>
+          {% endif %}
+
+        </div>
+
+      {% endfor %}
+
+      {% if book_pubs.size > 0 %}
+          </div>
+        </div>
+      {% endif %}
+
+
+    {% else %}
+
+      {{ content }}
+
+    {% endif %}
+
   </div>
 </div>

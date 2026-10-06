@@ -13,14 +13,12 @@ I am a meteorologist and climate scientist interested in understanding weather a
 
 My research focuses on climate variability, tropical meteorology, extreme weather, and climate change, with particular emphasis on the interactions between large-scale climate systems and regional weather over Indonesia and the surrounding Maritime Continent.
 
-Education
-======
+<h2>Education</h2>
 * Ph.D in Geophysics, Tohoku University, 2018
 * M.S. in Geophysics, Tohoku University, 2015
 * B.S. in Meteorology, Bandung Institute of Technology (ITB), 2012
 
-Work experience
-======
+<h2>Work experience</h2>
 * 2026-08 to present: Associate Professor
   * Faculty of Earth Sciences and Technology, ITB
 
@@ -33,9 +31,5 @@ Work experience
 * 2013-01 to 2013-07: Flood Risk Analyst
   * PT. MAIPARK Reinsurance, Jakarta, Indonesia
   
-Publications
-======
+<h2>Selected publications</h2>
 
-
-Teaching
-======

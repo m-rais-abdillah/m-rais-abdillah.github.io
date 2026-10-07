@@ -1,0 +1,12 @@
+---
+title: "Prioritizing Antarctic conservation areas by integrating habitat suitability and long-term environmental pressure using multisource satellite data and machine learning"
+collection: publications
+category: journal
+author:  Anjar Dimara Sakti,  Hazel Yordan Komara,  Arni Rahmawati Sholihah,  Cokro Santoso,  Nicholas E. Barrand,  Biswajeed Pradhan,  Wataru Takeuchi,  Raymond Ward,  Aynaz Lotfata,  <b>Muhammad Rais Abdillah</b>,  Agung Budi Harto, 
+permalink: /publication/2026-08-01-Prioritizing-An
+date: 2026-08-01
+venue: 'Ecological Informatics'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1574954126004358'
+citation: ' Anjar Sakti,  Hazel Komara,  Arni Sholihah,  Cokro Santoso,  Nicholas Barrand,  Biswajeed Pradhan,  Wataru Takeuchi,  Raymond Ward,  Aynaz Lotfata,  Muhammad Abdillah,  Agung Harto, &quot;Prioritizing Antarctic conservation areas by integrating habitat suitability and long-term environmental pressure using multisource satellite data and machine learning.&quot; Ecological Informatics, 2026.'
+---
+[Access paper here](https://www.sciencedirect.com/science/article/pii/S1574954126004358){:target="_blank"}

@@ -2,7 +2,7 @@
 title: "Indonesia tornado database: tornado climatology of Indonesia"
 collection: publications
 category: journal
-author:  Irfans Firdaus,  Takeshi Yamazaki,  <b>Muhammad Abdillah</b>,  Edi Riawan, 
+author:  Irfans Maulana Firdaus,  Takeshi Yamazaki,  <b>Muhammad Rais Abdillah</b>,  Edi Riawan, 
 permalink: /publication/2025-11-01-Indonesia-tornado-database-tornado-climatology-of-Indonesia
 date: 2025-11-01
 venue: 'Natural Hazards and Earth System Sciences'

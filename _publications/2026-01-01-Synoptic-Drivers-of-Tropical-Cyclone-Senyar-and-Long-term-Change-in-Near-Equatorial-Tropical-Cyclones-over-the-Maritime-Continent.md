@@ -2,7 +2,7 @@
 title: "Synoptic Drivers of Tropical Cyclone Senyar and Long-term Change in Near-Equatorial Tropical Cyclones over the Maritime Continent"
 collection: publications
 category: preprint
-author:  <b>Muhammad Abdillah</b>,  Luthfiyah Jannatunnisa,  Narizka Purwadani,  Dwina Nugraha,  Faiz Fajary,  Nurfiena Putri,  Rizma Prawira,  I Junnaedhi,  Edi Riawan,  Siti Aminah,  M. Fitriyanto,  Nurjanna Trilaksono,  Mamad Tamamadin,  Fikry Lugina,  Hengki Putra, 
+author:  <b>Muhammad Rais Abdillah</b>,  Luthfiyah Jannatunnisa,  Narizka Nanda Purwadani,  Dwina Nugraha,  Faiz Rohman Fajary,  Nurfiena Sagita Putri,  Rizma D. Prawira,  I Dewa Junnaedhi,  Edi Riawan,  Siti Aminah,  M. S. Fitriyanto,  Nurjanna Joko Trilaksono,  Mamad Tamamadin,  Fikry P. Lugina,  Hengki E. Putra, 
 permalink: /publication/2026-01-01-Synoptic-Drivers-of-Tropical-Cyclone-Senyar-and-Long-term-Change-in-Near-Equatorial-Tropical-Cyclones-over-the-Maritime-Continent
 date: 2026-01-01
 venue: 'ESS Open Archive'

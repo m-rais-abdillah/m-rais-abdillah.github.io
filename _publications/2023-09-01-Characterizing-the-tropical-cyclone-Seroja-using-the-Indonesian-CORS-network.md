@@ -2,7 +2,7 @@
 title: "Characterizing the tropical cyclone Seroja using the Indonesian CORS network"
 collection: publications
 category: journal
-author:  Nabila Putri,  Dudy Wijaya,  <b>Muhammad Abdillah</b>,  Zamzam Tanuwijaya,  Sidik Wibowo,  Wedyanto Kuntjoro, 
+author:  Nabila S. Putri,  Dudy D. Wijaya,  <b>Muhammad R. Abdillah</b>,  Zamzam A. Tanuwijaya,  Sidik T. Wibowo,  Wedyanto Kuntjoro, 
 permalink: /publication/2023-09-01-Characterizing-the-tropical-cyclone-Seroja-using-the-Indonesian-CORS-network
 date: 2023-09-01
 venue: 'Natural Hazards'

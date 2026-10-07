@@ -2,7 +2,7 @@
 title: "Catatan teknis sains atmosfer dan meteorologi, peta IDF (intensitas-durasi-frekuensi) curah hujan di Indonesia : metode perhitungan dan contoh pemanfatannya"
 collection: publications
 category: book
-author:  Atika Lubis,  T Hadi,  N. Trilaksono,  Rusmawan Suwarman,  I Junnaedhi,  M. Syahputra,  E. Riawan,  <b>M. Abdillah</b>,  F. Fajary,  R. Fitriani,  Siti Azizah, 
+author:  Atika Lubis,  T W Hadi,  N. J. Trilaksono,  Rusmawan Suwarman,  I Dewa Junnaedhi,  M. R. Syahputra,  E. Riawan,  <b>M. R. Abdillah</b>,  F. R. Fajary,  R. Fitriani,  Siti Azizah, 
 permalink: /publication/2022-01-01-Catatan-teknis-sains-atmosfer-dan-meteorologi-peta-IDF-intensitas-durasi-frekuensi-curah-hujan-di-Indonesia-metode-perhitungan-dan-contoh-pemanfatannya
 date: 2022-01-01
 venue: 'PT. Inovasi Teknologi Bermedia Press (PT ITB Press)'

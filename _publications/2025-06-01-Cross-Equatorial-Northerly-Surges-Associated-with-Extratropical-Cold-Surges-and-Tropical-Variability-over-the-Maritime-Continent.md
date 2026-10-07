@@ -2,7 +2,7 @@
 title: "Cross-Equatorial Northerly Surges Associated with Extratropical Cold Surges and Tropical Variability over the Maritime Continent"
 collection: publications
 category: journal
-author:  Tri Hadi,  <b>Muhammad Abdillah</b>,  Narizka Purwadani,  Rusmawan Suwarman,  Nurjanna Trilaksono,  Faiz Fajary,  Madam Maulana,  Dudy Wijaya, 
+author:  Tri W. Hadi,  <b>Muhammad Rais Abdillah</b>,  Narizka N. Purwadani,  Rusmawan Suwarman,  Nurjanna Joko Trilaksono,  Faiz R. Fajary,  Madam T. Maulana,  Dudy D. Wijaya, 
 permalink: /publication/2025-06-01-Cross-Equatorial-Northerly-Surges-Associated-with-Extratropical-Cold-Surges-and-Tropical-Variability-over-the-Maritime-Continent
 date: 2025-06-01
 venue: 'Journal of Climate'

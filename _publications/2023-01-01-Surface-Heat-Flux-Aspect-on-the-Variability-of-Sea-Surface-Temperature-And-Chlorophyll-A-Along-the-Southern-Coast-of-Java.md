@@ -2,7 +2,7 @@
 title: "Surface Heat Flux Aspect on the Variability of Sea Surface Temperature And Chlorophyll-A Along the Southern Coast of Java"
 collection: publications
 category: journal
-author:  Husein Alfarizi,  Anindya Wirasatriya,  Kunarso Kunarso,  <b>Muhammad Abdillah</b>,  Dwi Haryanti, 
+author:  Husein Alfarizi,  Anindya Wirasatriya,  Kunarso Kunarso,  <b>Muhammad Rais Abdillah</b>,  Dwi Haryanti, 
 permalink: /publication/2023-01-01-Surface-Heat-Flux-Aspect-on-the-Variability-of-Sea-Surface-Temperature-And-Chlorophyll-A-Along-the-Southern-Coast-of-Java
 date: 2023-01-01
 venue: 'Geographia Technica'

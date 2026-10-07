@@ -2,7 +2,7 @@
 title: "Future projections of extreme precipitation over Indonesia&apos;s new capital under climate change scenario using CORDEX-SEA regional climate models"
 collection: publications
 category: journal
-author:  Marzuki Marzuki,  Ravidho Ramadhan,  Helmi Yusnaini,  Liew Juneng,  Fredolin Tangang,  Mutya Vonnisa,  Afdal Afdal,  <b>Muhammad Abdillah</b>,  Rahmat Hidayat, 
+author:  Marzuki Marzuki,  Ravidho Ramadhan,  Helmi Yusnaini,  Liew Juneng,  Fredolin Tangang,  Mutya Vonnisa,  Afdal Afdal,  <b>Muhammad Rais Abdillah</b>,  Rahmat Hidayat, 
 permalink: /publication/2026-01-01-Future-projections-of-extreme-precipitation-over-Indonesias-new-capital-under-climate-change-scenario-using-CORDEX-SEA-regional-climate-models
 date: 2026-01-01
 venue: 'Atmospheric Research'

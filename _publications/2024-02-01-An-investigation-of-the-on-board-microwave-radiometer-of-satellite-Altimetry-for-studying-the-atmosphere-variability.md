@@ -2,7 +2,7 @@
 title: "An investigation of the on-board microwave radiometer of satellite Altimetry for studying the atmosphere variability"
 collection: publications
 category: journal
-author:  Noor Abdullah,  Dudy Wijaya,  Irwan Meilano,  Wedyanto Kuntjoro,  Zamzam Tanuwijaya,  <b>Muhammad Abdillah</b>,  Fathin Nurzaman, 
+author:  Noor Nabilah Abdullah,  Dudy Darmawan Wijaya,  Irwan Meilano,  Wedyanto Kuntjoro,  Zamzam Akhmad Tanuwijaya,  <b>Muhammad Rais Abdillah</b>,  Fathin Nurzaman, 
 permalink: /publication/2024-02-01-An-investigation-of-the-on-board-microwave-radiometer-of-satellite-Altimetry-for-studying-the-atmosphere-variability
 date: 2024-02-01
 venue: 'Earth, Planets and Space'

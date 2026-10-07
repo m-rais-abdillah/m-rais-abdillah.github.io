@@ -2,7 +2,7 @@
 title: "Performance Analysis of Weather Research and Forecasting Chemistry (WRF-Chem) Model in DKI Jakarta Area (Case Study: July 7–9, 2021)"
 collection: publications
 category: proceeding
-author:  Rizhqa Enhakhoirunnisa,  Rachmy Fitriani,  <b>Muhammad Abdillah</b>,  Prawira Kombara,  Alvin Pratama,  Dinda Medyani,  Nidaa Fauziyyah, 
+author:  Rizhqa Enhakhoirunnisa,  Rachmy Fitriani,  <b>Muhammad Rais Abdillah</b>,  Prawira Yudha Kombara,  Alvin Pratama,  Dinda Shabrina Medyani,  Nidaa Fauziyyah, 
 permalink: /publication/2024-01-01-Performance-Analysis-of-Weather-Research-and-Forecasting-Chemistry-WRF-Chem-Model-in-DKI-Jakarta-Area-Case-Study-July-79-2021
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the International Conference on Radioscience, Equatorial Atmospheric Science and Environment and Humanosphere Science'

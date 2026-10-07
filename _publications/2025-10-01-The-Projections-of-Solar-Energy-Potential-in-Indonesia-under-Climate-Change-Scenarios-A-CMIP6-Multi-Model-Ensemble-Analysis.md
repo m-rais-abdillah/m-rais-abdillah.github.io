@@ -2,7 +2,7 @@
 title: "The Projections of Solar Energy Potential in Indonesia under Climate Change Scenarios : A CMIP6 Multi-Model Ensemble Analysis"
 collection: publications
 category: proceeding
-author:  Farah Octavia,  Nurjanna Trilaksono,  Shamsul Hadi,  Wildan Putra,  Afif Amir,  <b>Muhammad Abdillah</b>, 
+author:  Farah Rizki Octavia,  Nurjanna Joko Trilaksono,  Shamsul Hadi,  Wildan Arya Putra,  Afif Asykar Amir,  <b>Muhammad Rais Abdillah</b>, 
 permalink: /publication/2025-10-01-The-Projections-of-Solar-Energy-Potential-in-Indonesia-under-Climate-Change-Scenarios-A-CMIP6-Multi-Model-Ensemble-Analysis
 date: 2025-10-01
 venue: 'In the proceedings of ITB Graduate School Conference'

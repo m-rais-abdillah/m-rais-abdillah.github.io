@@ -2,7 +2,7 @@
 title: "Perubahan Temperatur setelah Letusan Pinatubo 1991 dari Luaran Model CMIP5 dengan Analisis Neraca Energi"
 collection: publications
 category: journal
-author:  Rahma Salsabila,  Rusmawan Suwarman,  <b>Muhammad Abdillah</b>, 
+author:  Rahma Alfina Salsabila,  Rusmawan Suwarman,  <b>Muhammad Rais Abdillah</b>, 
 permalink: /publication/2022-06-01-Perubahan-Temperatur-setelah-Letusan-Pinatubo-1991-dari-Luaran-Model-CMIP5-dengan-Analisis-Neraca-Energi
 excerpt: 'Number: 1'
 date: 2022-06-01

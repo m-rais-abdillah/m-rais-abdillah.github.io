@@ -2,7 +2,7 @@
 title: "Relationship between wind incidents and wind-induced damage to construction in West Java, Indonesia"
 collection: publications
 category: proceeding
-author:  P. Sarli,  <b>M. Abdillah</b>,  A. Sakti, 
+author:  P. W. Sarli,  <b>M. R. Abdillah</b>,  A. D Sakti, 
 permalink: /publication/2020-11-01-Relationship-between-wind-incidents-and-wind-induced-damage-to-construction-in-West-Java-Indonesia
 date: 2020-11-01
 venue: 'In the proceedings of IOP Conference Series: Earth and Environmental Science'

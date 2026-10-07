@@ -2,7 +2,7 @@
 title: "Perubahan Karakteristik Curah Hujan Jangka Panjang di Provinsi Jawa Barat Tahun 1921-2010"
 collection: publications
 category: journal
-author:  Muhammad Sigid,  <b>Muhammad Abdillah</b>,  Zadrach Dupe, 
+author:  Muhammad Fikri Sigid,  <b>Muhammad Rais Abdillah</b>,  Zadrach Leudofij Dupe, 
 permalink: /publication/2021-10-01-Perubahan-Karakteristik-Curah-Hujan-Jangka-Panjang-di-Provinsi-Jawa-Barat-Tahun-1921-2010
 excerpt: 'Number: 2'
 date: 2021-10-01

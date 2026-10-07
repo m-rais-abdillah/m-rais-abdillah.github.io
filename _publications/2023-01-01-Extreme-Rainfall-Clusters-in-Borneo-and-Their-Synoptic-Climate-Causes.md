@@ -2,7 +2,7 @@
 title: "Extreme Rainfall Clusters in Borneo and Their Synoptic Climate Causes"
 collection: publications
 category: proceeding
-author:  Narizka Purwadani,  Mohamad Djuwansah,  <b>Muhammad Abdillah</b>,  Faiz Fajary,  Ida Narulita, 
+author:  Narizka Nanda Purwadani,  Mohamad Rahman Djuwansah,  <b>Muhammad Rais Abdillah</b>,  Faiz Rohman Fajary,  Ida Narulita, 
 permalink: /publication/2023-01-01-Extreme-Rainfall-Clusters-in-Borneo-and-Their-Synoptic-Climate-Causes
 date: 2023-01-01
 venue: 'In the proceedings of Proceedings of the International Conference on Radioscience, Equatorial Atmospheric Science and Environment and Humanosphere Science'

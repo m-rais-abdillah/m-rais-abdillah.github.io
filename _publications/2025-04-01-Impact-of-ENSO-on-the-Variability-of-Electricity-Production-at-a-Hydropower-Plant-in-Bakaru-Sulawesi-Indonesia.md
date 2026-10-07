@@ -2,7 +2,7 @@
 title: "Impact of ENSO on the Variability of Electricity Production at a Hydropower Plant in Bakaru Sulawesi, Indonesia"
 collection: publications
 category: proceeding
-author:  Siti Sari,  <b>Muhammad Abdillah</b>,  Ivonne Radjawane,  Dwina Nugraha,  Syahandra Ramadhan, 
+author:  Siti Khairani Sari,  <b>Muhammad Rais Abdillah</b>,  Ivonne M. Radjawane,  Dwina Nugraha,  Syahandra Ramadhan, 
 permalink: /publication/2025-04-01-Impact-of-ENSO-on-the-Variability-of-Electricity-Production-at-a-Hydropower-Plant-in-Bakaru-Sulawesi-Indonesia
 date: 2025-04-01
 venue: 'In the proceedings of IOP Conference Series: Earth and Environmental Science'
